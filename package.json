@@ -33,6 +33,11 @@
         "label": "Cobalt2",
         "uiTheme": "vs-dark",
         "path": "./theme/cobalt2.json"
+      },
+      {
+        "label": "Cobalt2-LightUI",
+        "uiTheme": "vs-light",
+        "path": "./theme/cobalt2-lightui.json"
       }
     ]
   },
